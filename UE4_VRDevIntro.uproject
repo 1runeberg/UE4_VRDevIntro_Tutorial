@@ -3,6 +3,13 @@
 	"EngineAssociation": "4.13",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE4_VRDevIntro",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"
